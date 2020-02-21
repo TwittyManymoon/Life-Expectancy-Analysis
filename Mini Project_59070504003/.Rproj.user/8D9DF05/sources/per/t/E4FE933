@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576520681514.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E4FE933",
+    "lastKnownWriteTime" : 7164771209704730744,
+    "last_content_update" : 1576520681514,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7B720E66",
+        "caption" : "df_life_developing",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_life_developing&cache_key=7B720E66",
+        "displayedObservations" : 2426,
+        "environment" : "",
+        "expression" : "df_life_developing",
+        "object" : "df_life_developing",
+        "preview" : 0,
+        "totalObservations" : 2426,
+        "variables" : 23
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

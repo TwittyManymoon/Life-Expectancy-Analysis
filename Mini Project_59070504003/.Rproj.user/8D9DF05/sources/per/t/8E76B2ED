@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576388074233.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E76B2ED",
+    "lastKnownWriteTime" : 2333816117080,
+    "last_content_update" : 1576388074233,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C1E0A2D7",
+        "caption" : "title",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=C1E0A2D7",
+        "displayedObservations" : "5",
+        "environment" : "_rs_no_env",
+        "expression" : "structure(list(Model = structure(1:5, .Label = c(\"gbm\", \"lm\",  \"lm_fit_1\", \"rf\", \"svm\"), class = \"factor\"), MSE = c(8.79456638769363,  15.1301704692734, 15.5238213810256, 3.27217496068336, 15.5396326382946 ), RMSE = c(2.96492527252093, 3.88975198043184, 3.94002809393862,  1.80891541004088, 3.9420340737105), Min_Max_Acc = c(0.464899074304353,  0.392073069121572, 0.397392183201594, 0.48876404494382, 0.388994912103759 )), class = \"data.frame\", row.names = c(NA, -5L))",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "5",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
